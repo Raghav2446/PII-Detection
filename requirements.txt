@@ -12,7 +12,7 @@ aiosmb==0.4.4
 aiosqlite==0.21.0
 aiowinreg==0.0.7
 ajpy==0.0.5
-alembic==1.13.2.dev0
+alembic==1.13.1
 altgraph==0.17.4
 amqp==5.3.1
 aniso8601==10.0.1
@@ -686,3 +686,4 @@ zope.event==5.0
 zope.interface==7.2
 zopfli==0.2.3.post1
 zstandard==0.24.0
+
